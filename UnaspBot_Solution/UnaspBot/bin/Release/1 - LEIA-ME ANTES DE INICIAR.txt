@@ -1,0 +1,5 @@
+PARA REALIZAR A BUSCA COM O SEU LOGIN, ALTERE O ARQUIVO DE TEXTO "Dados.txt",
+
+SUBSTITUA "username" pelo seu usuário,
+
+SUBSTITUA "password" pela sua senha.

@@ -1,0 +1,13 @@
+D:\Solutions VS\UnaspBot\UnaspBot\bin\Debug\phantomjs.exe
+D:\Solutions VS\UnaspBot\UnaspBot\bin\Debug\phantomjs-license.txt
+D:\Solutions VS\UnaspBot\UnaspBot\bin\Debug\UnaspBot.exe.config
+D:\Solutions VS\UnaspBot\UnaspBot\bin\Debug\UnaspBot.exe
+D:\Solutions VS\UnaspBot\UnaspBot\bin\Debug\UnaspBot.pdb
+D:\Solutions VS\UnaspBot\UnaspBot\bin\Debug\WebDriver.dll
+D:\Solutions VS\UnaspBot\UnaspBot\bin\Debug\WebDriver.Support.dll
+D:\Solutions VS\UnaspBot\UnaspBot\bin\Debug\WebDriver.xml
+D:\Solutions VS\UnaspBot\UnaspBot\bin\Debug\WebDriver.Support.xml
+D:\Solutions VS\UnaspBot\UnaspBot\obj\Debug\UnaspBot.csprojResolveAssemblyReference.cache
+D:\Solutions VS\UnaspBot\UnaspBot\obj\Debug\UnaspBot.csproj.CoreCompileInputs.cache
+D:\Solutions VS\UnaspBot\UnaspBot\obj\Debug\UnaspBot.exe
+D:\Solutions VS\UnaspBot\UnaspBot\obj\Debug\UnaspBot.pdb
