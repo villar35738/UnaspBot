@@ -239,7 +239,7 @@ namespace UnaspBotForm
             UserCredential credential;
 
             using (var stream =
-                new FileStream(AppDomain.CurrentDomain.BaseDirectory + "//credentials.json", FileMode.Open, FileAccess.Read))
+                new FileStream(AppDomain.CurrentDomain.BaseDirectory + "//credentials_daniel.json", FileMode.Open, FileAccess.Read))
             {
                 // The file token.json stores the user's access and refresh tokens, and is created
                 // automatically when the authorization flow completes for the first time.
@@ -290,10 +290,13 @@ namespace UnaspBotForm
             {
                 foreach (var eventItem in eventsList.Items)
                 {
-                    if (eventItem.Description.Equals(titulo + "\n" + status))
+                    if (eventItem.Description != null)
                     {
-                        calendar.Events.Delete("primary", eventItem.Id).Execute();
-                        break;
+                        if (eventItem.Description.Equals(titulo + "\n" + status))
+                        {
+                            calendar.Events.Delete("primary", eventItem.Id).Execute();
+                            break;
+                        }
                     }
                 }
             }

@@ -16,7 +16,6 @@ D:\Solutions VS\UnaspBotForm\UnaspBotForm\obj\Debug\UnaspBotForm.csproj.CopyComp
 D:\Solutions VS\UnaspBotForm\UnaspBotForm\obj\Debug\UnaspBotForm.exe
 D:\Solutions VS\UnaspBotForm\UnaspBotForm\obj\Debug\UnaspBotForm.pdb
 D:\Solutions VS\UnaspBotForm\UnaspBotForm\obj\Debug\UnaspBotForm.csprojAssemblyReference.cache
-D:\GIT Projects\UnaspBot\UnaspBotForm_Solution\UnaspBotForm\bin\Debug\credentials.json
 D:\GIT Projects\UnaspBot\UnaspBotForm_Solution\UnaspBotForm\bin\Debug\UnaspBotForm.exe.config
 D:\GIT Projects\UnaspBot\UnaspBotForm_Solution\UnaspBotForm\bin\Debug\UnaspBotForm.exe
 D:\GIT Projects\UnaspBot\UnaspBotForm_Solution\UnaspBotForm\bin\Debug\UnaspBotForm.pdb
@@ -48,3 +47,4 @@ D:\GIT Projects\UnaspBot\UnaspBotForm_Solution\UnaspBotForm\obj\Debug\UnaspBotFo
 D:\GIT Projects\UnaspBot\UnaspBotForm_Solution\UnaspBotForm\obj\Debug\UnaspBotForm.csproj.CopyComplete
 D:\GIT Projects\UnaspBot\UnaspBotForm_Solution\UnaspBotForm\obj\Debug\UnaspBotForm.exe
 D:\GIT Projects\UnaspBot\UnaspBotForm_Solution\UnaspBotForm\obj\Debug\UnaspBotForm.pdb
+D:\GIT Projects\UnaspBot\UnaspBotForm_Solution\UnaspBotForm\obj\Debug\UnaspBotForm.csprojAssemblyReference.cache
